@@ -1,0 +1,14 @@
+{
+  "name": "itoTest",
+  "description": "iiitoo 测试练习js的项目",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
